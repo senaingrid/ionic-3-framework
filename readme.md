@@ -15,7 +15,7 @@ $ docker run -it --rm \
   -p 8100:8100 \
   -p 35729:35729 \
   -v /path/to/your/ionic-project/:/myApp:z \
-   pam79/ionic-framework
+   pam79/ionic-3-framework
 ```
 
 &nbsp;  
